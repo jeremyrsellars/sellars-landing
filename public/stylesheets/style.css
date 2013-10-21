@@ -1,0 +1,33 @@
+body {
+  padding: 50px;
+  font: 14px "Lucida Grande", Helvetica, Arial, sans-serif;
+}
+
+a {
+  color: #00B7FF;
+}
+
+div.tile{
+   text-align: center;
+   display: inline-block;
+   padding: 15px;
+   cursor: hand;
+}
+
+img#recipes{
+   background-color: aliceblue;
+   display:block;
+   width: 200px;
+   height: 200px;
+   background-image: url('/images/recipe.png');
+   cursor: hand;
+}
+
+img#tictactoe{
+   background-color: red;
+   display: block;
+   width: 200px;
+   height: 200px;
+   background-image: url('/images/tictactoe.png');
+   cursor: hand;
+}
