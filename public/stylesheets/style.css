@@ -23,6 +23,15 @@ img#recipes{
    cursor: hand;
 }
 
+img#rechord{
+   background-color: aliceblue;
+   display:block;
+   width: 200px;
+   height: 200px;
+   background-image: url('/images/rechord.png');
+   cursor: hand;
+}
+
 img#tictactoe{
    background-color: red;
    display: block;
